@@ -1,3 +1,3 @@
-# Fun-Gamezzz
+# Teris-Game
 
-1: ZHUAN!: A TETRIS GAME
+This is a classical Tetris Game I created :)
